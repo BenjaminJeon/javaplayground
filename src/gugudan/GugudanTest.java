@@ -1,7 +1,6 @@
 package gugudan;
 
 import junit.framework.TestCase;
-import java.util.ArrayList;
 
 public class GugudanTest extends TestCase {
 	public void testCreate() {
